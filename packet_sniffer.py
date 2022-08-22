@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-#import http
 
 import scapy.all as scapy
 from scapy.layers.http import *
