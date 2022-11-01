@@ -1,6 +1,6 @@
 # Background & README Information:
 
-Python3 script for sniffing packets for pre-defined keywords (username, password, pwd, etc.) Helpful when used in combination with ARP_Spoofer. Reference https://attack.mitre.org/techniques/T1557/002/ for more information on ARP Poisoning and threat actor groups leveraging this technique.
+Python3 script for sniffing packets for HTTP Requests containing pre-defined keywords (username, password, pwd, etc.) Helpful when used in combination with ARP_Spoofer. Reference https://attack.mitre.org/techniques/T1557/002/ for more information on ARP Poisoning and threat actor groups leveraging this technique.
 
 Requires root/admin privileges on the host. Module imports include scapy:
 
